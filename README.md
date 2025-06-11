@@ -1,9 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=180A18&width=435&lines=Heyyy%2C+I'm+Chioma+;Data+Scientist+%7C+ML+Engineer)](https://git.io/typing-svg)
 
 A Data scientist (or as I like to call it, a **Datatective 🕵🏽‍♀️**) with a creative edge.
-
 I work at the intersection of modeling and meaning. Writing code that doesn’t just compute, but explains. I ask questions, follow hunches, and build systems that make messy things make sense or at least more interesting.
-
 Sometimes the output is a model and Sometimes it’s a story.
 
 # Tech Stack:
